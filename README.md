@@ -35,8 +35,11 @@ Web Browser: Supports Chrome, Firefox, Safari, etc.
 Node.js and npm: Required for server-side JavaScript execution. You can install Node.js from nodejs.org.
 MongoDB: Database system to store calendar data. Install MongoDB from mongodb.com.
 Git: Version control system for managing project code. Install Git from git-scm.com.
+
 React.js: JavaScript library for building user interfaces. Install React.js by following instructions from reactjs.org.
+
 Access to the Internet: Required for accessing the application and potential updates.
+
 Ensure that Node.js, MongoDB, Git, and React.js are installed and configured properly before proceeding with the Calendar Scheduling System.
 
 
